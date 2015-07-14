@@ -25,7 +25,7 @@ Then you need to use the Android SDK manager to install the following components
  * ANDROID_HOME environment variable pointing to the directory where the sdk is installed
  * Android SDK Tools 22.6.4
  * SDK Platform Tools 19.0.2
- * Android SDK build Tools 19.1.0
+ * Android SDK Build Tools 22.0.1
  * Android 4.4.2 (API 19) (at least SDK Platform Rev. 3)
  * Android Extras:
     * Android Support Repository rev 5
